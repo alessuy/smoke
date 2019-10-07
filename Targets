@@ -98,7 +98,8 @@
 ++ tifrem
  menu = Tifrem
  title = Tifrem
- host = $tifrem
+ host = tifrem.ddns.net
+
 
 ++ google
  menu = Google
