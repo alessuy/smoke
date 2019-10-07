@@ -1,0 +1,107 @@
+ *** Targets ***
+ probe = FPing
+ 
+ menu = Top
+ title = Network Latency Grapher
+ remark = Welcome to this SmokePing website.
+ 
++ servidores
+ menu = Servidores
+ title = Servidores
+ 
+++ web
+ menu = Servidore Web
+ title = Servidore Web
+ host = web
+
+++ monitoreo
+ menu = Servidor Monitoreo
+ title = Servidor Monitoreo
+ host = moitoreo
+
+++ nas
+ menu = Servidor Nas
+ title = Sevidor Nas
+ host = nas
+
+
++ infraestructura
+ menu = Infraestructura
+ title = Infraestructura
+
+++ firewall
+ menu = Firewall
+ title = Firewall
+ host = firewall
+
+++ pbx
+ menu = PBX
+ title = PBX
+ host = pbx
+
+++ sw-casa
+ menu = Switch Casa
+ title = Switch Casa
+ host = sw-casa
+
+++ tplink
+ menu = TpLink
+ title = TpLink
+ host = tplink
+
+++ dd-wrt
+ menu = DD-wrt
+ title = DD-wrt
+ host = dd-wrt
+
+++ timbre
+ menu = Timbre
+ title = Timbre
+ host = timbre
+
+
++ Dispositivos
+ menu = Dispositivos
+ title = Dispositivos
+
+++ tv-living
+ menu = TV-Living
+ title =TV-Living
+ host = tv-living
+
+++ tv-cuarto
+ menu = TV-Cuarto
+ title = TV-Cuarto
+ host = tv-cuarto
+
+
+++ franco
+ menu = Franco
+ title = Franco
+ host = franco
+
+++ nenas
+ menu = Nenas
+ title = Nenas
+ host = nenas
+
+++ andrea
+ menu = Andrea
+ title = Andrea
+ host = andrea
+
+
++ Remotos
+ menu = Remotos
+ title = Remotos
+
+++ tifrem
+ menu = Tifrem
+ title = Tifrem
+ host = $tifrem
+
+++ google
+ menu = Google
+ title = Google
+ host = www.google.com
+
